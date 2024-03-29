@@ -1,0 +1,2 @@
+# Effective Pandas 2
+This repo contains exercises, experiments, etc. related to the book [Effective Pandas 2](https://store.metasnake.com/effective-pandas-book), by Matt Harrison. Though I have already been using Pandas for several years, this book has a stellar reputation for providing effective coding patterns. Moreover, at the time of writing, I am applying to open positions in data science, ML engineering, etc. I want to make sure I'm well-prepared for interviews; I've already been burned once for letting my Pandas skills get rusty.
